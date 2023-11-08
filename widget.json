@@ -1,0 +1,30 @@
+{
+  "name": "Clock-iOS",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-widget-Clock-iOS",
+  "version": "0.0.2",
+  "minAppVersion": "1.1.1",
+  "displayName": {
+    "default": "Clock-iOS",
+    "zh_CN": "iOS时钟"
+  },
+  "description": {
+    "default": "An iOS style clock",
+    "zh_CN": "一个iOS样式的时钟"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "时钟", "clock"
+  ]
+}
